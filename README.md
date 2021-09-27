@@ -42,7 +42,6 @@
 
 <a href="https://github.com/SudhansuuRanjan/github-readme-activity-graph"><img alt="Sudhanshu Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SudhansuuRanjan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&locale=en&theme=radical" alt="sudhansuuranjan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="sudhansuuranjan" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&locale=en&theme=radical" alt="sudhansuuranjan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="sudhansuuranjan" /></p>
 
