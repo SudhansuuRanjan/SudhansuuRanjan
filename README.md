@@ -52,8 +52,3 @@
 
 <a href="https://github.com/SudhansuuRanjan/github-readme-activity-graph"><img alt="Sudhanshu Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SudhansuuRanjan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/SudhansuuRanjan/SudhansuuRanjan/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
