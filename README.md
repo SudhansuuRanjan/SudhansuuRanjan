@@ -36,7 +36,6 @@
 <h1 align="center"> 📈 My GitHub stats:</h1>
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=SudhansuuRanjan&show_icons=true&theme=radical&count_private=true" alt="Sudhanshu" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhansuuRanjan&layout=compact&hide=html&theme=radical" alt="Sudhanshu" />
 </p>
 
