@@ -36,12 +36,12 @@
 <h1 align="center"> 📈 My GitHub stats:</h1>
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=SudhansuuRanjan&show_icons=true&theme=radical&count_private=true" alt="FirdausJawed" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhansuuRanjan&layout=compact&hide=html&theme=radical" alt="FirdausJawed" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=SudhansuuRanjan&show_icons=true&theme=radical&count_private=true" alt="Sudhanshu" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhansuuRanjan&layout=compact&hide=html&theme=radical" alt="Sudhanshu" />
 </p>
 
-<a href="https://github.com/SudhansuuRanjan/github-readme-activity-graph"><img alt="Sudhanshu Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SudhansuuRanjan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&locale=en&theme=radical" alt="sudhansuuranjan" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="sudhansuuranjan" /></p>
 
+<a href="https://github.com/SudhansuuRanjan/github-readme-activity-graph"><img alt="Sudhanshu Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SudhansuuRanjan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
