@@ -45,9 +45,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="sudhansuuranjan" /></p>
 <h1 align="center"> 📈 My GitHub stats:</h1>
 
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhansuuRanjan&layout=compact&hide=html&theme=radical" alt="Sudhanshu" />
-</p>
+<p align="center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhansuuranjan&show_icons=true&locale=en&layout=compact" alt="sudhansuuranjan" /></p>
 
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&locale=en&theme=radical" alt="sudhansuuranjan" /></p>
