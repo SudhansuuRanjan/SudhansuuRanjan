@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://github.com/SudhansuuRanjan/My-Portfolio-Website](https://github.com/SudhansuuRanjan/My-Portfolio-Website)
 
-- ⚡ Fun fact **I love animes more than Coding.**
+- ⚡ Fun fact **Anime is more real than real Workd!!.**
 
 <br/>
 <p align="center"> <a href="https://twitter.com/@sudhanss_u" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanss_u?logo=twitter&style=for-the-badge" alt="@sushanss_u"/></a> </p>
