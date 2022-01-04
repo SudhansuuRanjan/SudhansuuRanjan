@@ -61,7 +61,8 @@
 </p>
 
 <h2 align="center"> My Github Streak</h2>
-<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical" alt="harshkumar62367" /></p>
+<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="harshkumar62367" /></p>
 
-<a href="https://github.com/SudhansuuRanjan/github-readme-activity-graph"><img border-radius="10px" alt="Sudhanshu Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SudhansuuRanjan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<h2 align="center">My Contributions Graph</h2>
 
+![](https://activity-graph.herokuapp.com/graph?username=sudhansuuranjan&theme=radical)
