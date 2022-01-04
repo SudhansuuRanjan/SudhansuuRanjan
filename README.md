@@ -51,21 +51,17 @@
 <table>
   <tr>
     <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhansuuranjan&show_icons=true&locale=en&layout=compact&line_height=20&theme=algolia" alt="harshkumar62367" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhansuuranjan&show_icons=true&locale=en&layout=compact&line_height=20&theme=radical" alt="harshkumar62367" /></p>
    </td>
    <td>
-<img src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&line_height=20&theme=algolia" alt="harshkumar62367" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&line_height=20&theme=radical" alt="harshkumar62367" /></p>
    </td>
  </tr>
 </table>
 </p>
 
-<h2 align="center"> 📈 My GitHub Streak</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="sudhansuuranjan" /></p><br/>
-<h2 align="center"> 📈 My GitHub stats</h2>
-
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&locale=en&theme=radical" alt="sudhansuuranjan" />
-<img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhansuuranjan&show_icons=true&locale=en&layout=compact&theme=radical" alt="sudhansuuranjan" /></p>
+<h2 align="center"> My Github Streak</h2>
+<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical" alt="harshkumar62367" /></p>
 
 <a href="https://github.com/SudhansuuRanjan/github-readme-activity-graph"><img border-radius="10px" alt="Sudhanshu Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SudhansuuRanjan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
