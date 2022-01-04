@@ -26,7 +26,7 @@
 <p align="center"> <a href="https://twitter.com/@sudhanss_u" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanss_u?logo=twitter&style=for-the-badge" alt="@sushanss_u"/></a> </p>
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhansuuranjan&column=6&margin-w=10&margin-h=10&margin-w=10&theme=radical" alt="sudhansuuranjan" /></a></p>
+<p align="middle"> <img src="https://github-profile-trophy.vercel.app/?username=SudhanshuuRanjan62367&column=4&margin-w=15&margin-h=15&theme=radical" alt="harshkumar62367" /> </p>
 
 
 <br/>
