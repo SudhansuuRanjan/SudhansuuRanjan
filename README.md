@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/SudhansuuRanjan/My-Portfolio-Website)
 
-- 🌱 I’m currently learning **React , JAVA & JavaScript**
+- 🌱 I’m currently learning **NodeJS React , JAVA & JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SudhansuuRanjan/My-Portfolio-Website](https://github.com/SudhansuuRanjan/My-Portfolio-Website)
 
