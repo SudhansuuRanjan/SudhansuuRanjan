@@ -65,4 +65,4 @@
 
 <h2 align="center">My Contributions Graph</h2>
 
-![](https://activity-graph.herokuapp.com/graph?username=sudhansuuranjan&theme=radical)
+<div style="border-radius:10%">![](https://activity-graph.herokuapp.com/graph?username=sudhansuuranjan&theme=radical)</div>
