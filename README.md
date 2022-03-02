@@ -8,19 +8,16 @@
 </p>
 
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/SudhansuuRanjan/My-Portfolio-Website)
+- 🔭 I’m currently working on [My Portfolio Website](https://github.com/SudhansuuRanjan/portfolio)
 
 - 🌱 I’m currently learning **NodeJS React , JAVA & JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SudhansuuRanjan/My-Portfolio-Website](https://github.com/SudhansuuRanjan/My-Portfolio-Website)
+- 👨‍💻 All of my projects are available at [https://github.com/SudhansuuRanjan/My-Portfolio-Website](https://github.com/SudhansuuRanjan)
 
-- 💬 Ask me about **HTML/CSS , React , JavaScriprt , Ui/Ux**
+- 💬 Ask me about **HTML/CSS , React , JavaScriprt , Ui/Ux , MongoDB , Arduino**
 
 - 📫 How to reach me **sudhanshur.ug20.ee@nitp.ac.in**
 
-- 📄 Know about my experiences [https://github.com/SudhansuuRanjan/My-Portfolio-Website](https://github.com/SudhansuuRanjan/My-Portfolio-Website)
-
-- ⚡ Fun fact **Anime is more real than real World!!.**
 
 <br/>
 <p align="center"> <a href="https://twitter.com/@sudhanss_u" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanss_u?logo=twitter&style=for-the-badge" alt="@sushanss_u"/></a> </p>
