@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://sudhanshu-ranjan.vercel.app/)
 
-- 🌱 I’m currently learning **NodeJS React , JAVA & JavaScript**
+- 🌱 I’m currently learning **ReactJs , DSA in JAVA **
 
-- 👨‍💻 All of my projects are available at [https://github.com/SudhansuuRanjan/My-Portfolio-Website](https://github.com/SudhansuuRanjan)
+- 👨‍💻 All of my projects are available at [https://sudhanshu-ranjan.vercel.app/works](https://sudhanshu-ranjan.vercel.app/works)
 
-- 💬 Ask me about **HTML/CSS , React , JavaScriprt , Ui/Ux , MongoDB , Arduino**
+- 💬 Ask me about **HTML/CSS , ReactJs , NodeJs, Arduino**
 
 - 📫 How to reach me **sudhanshur.ug20.ee@nitp.ac.in**
 
