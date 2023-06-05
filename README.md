@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Ranjan</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer from India.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sudhansuuranjan&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="sudhansuuranjan" /> </p>
 
@@ -8,9 +8,9 @@
 </p>
 
 
-- 🔭 I’m currently working on [OneStopNITP](https://sudhanshu-ranjan.vercel.app/)
+- 🔭 I’m currently working on [SpotiStat](https://sudhanshu-ranjan.vercel.app/)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://sudhanshu-ranjan.vercel.app/works](https://sudhanshu-ranjan.vercel.app/works)
 
