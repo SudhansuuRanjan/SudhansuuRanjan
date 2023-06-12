@@ -8,9 +8,9 @@
 </p>
 
 
-- 🔭 I’m currently working on [SpotiStat](https://sudhanshu-ranjan.vercel.app/)
+- 🔭 I’m currently working on [ELOQUI](https://sudhanshu-ranjan.vercel.app/)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **GraphQL, Prisma**
 
 - 👨‍💻 All of my projects are available at [https://sudhanshu-ranjan.vercel.app/works](https://sudhanshu-ranjan.vercel.app/works)
 
