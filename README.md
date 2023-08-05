@@ -8,13 +8,13 @@
 </p>
 
 
-- 🔭 I’m currently working on [ELOQUI](https://sudhanshu-ranjan.vercel.app/)
+- 🔭 I’m currently working on [SPOTISTAT](https://spotistat.vercel.app/)
 
 - 🌱 I’m currently learning **GraphQL, Prisma**
 
-- 👨‍💻 All of my projects are available at [https://sudhanshu-ranjan.vercel.app/works](https://sudhanshu-ranjan.vercel.app/works)
+- 👨‍💻 All of my projects are available at [https://sudhanshur.vercel.app/projects](https://sudhanshur.vercel.app/projects)
 
-- 💬 Ask me about **HTML/CSS , ReactJs , NodeJs, Web3**
+- 💬 Ask me about **HTML/CSS , ReactJs , NodeJs, Solidity**
 
 - 📫 How to reach me **sudhanshur.ug20.ee@nitp.ac.in**
 
