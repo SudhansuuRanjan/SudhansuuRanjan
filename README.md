@@ -61,5 +61,4 @@
 <p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="harshkumar62367" /></p>
 
 <h2 align="center">My Contributions Graph</h2>
-
-![](https://activity-graph.herokuapp.com/graph?username=sudhansuuranjan&theme=xcode)
+<p align="middle"><img align "middle" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudhansuuRanjan&theme=monokai" alt="Sudhanshu Ranjan" /></p>
