@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [SPOTISTAT](https://spotistat.vercel.app/)
 
-- 🌱 I’m currently learning **GraphQL, Prisma**
+- 🌱 I’m currently learning **GraphQL, NestJs**
 
 - 👨‍💻 All of my projects are available at [https://sudhanshur.vercel.app/projects](https://sudhanshur.vercel.app/projects)
 
