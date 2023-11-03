@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [SPOTISTAT](https://spotistat.vercel.app/)
+- 🔭 I’m currently working on [🎧 mix.me](https://github.com/SudhansuuRanjan/mix.me)
 
 - 🌱 I’m currently learning **GraphQL, NestJs**
 
