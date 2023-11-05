@@ -62,4 +62,8 @@
 <p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="harshkumar62367" /></p>
 
 <h2 align="center">My Contributions Graph</h2>
-<p align="middle"><img align "middle" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudhansuuRanjan&theme=monokai" alt="Sudhanshu Ranjan" /></p>
+<p align="middle">
+    
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=SudhansuuRanjan&theme=react-dark)
+
+</p>
