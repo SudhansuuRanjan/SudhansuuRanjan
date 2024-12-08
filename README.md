@@ -49,17 +49,17 @@
 <table>
   <tr>
     <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhansuuranjan&show_icons=true&locale=en&layout=compact&line_height=20&theme=radical" alt="harshkumar62367" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhansuuranjan&show_icons=true&locale=en&layout=compact&line_height=20&theme=radical" alt="SudhansuuRanjan" /></p>
    </td>
    <td>
-<img src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&line_height=20&theme=radical" alt="harshkumar62367" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&line_height=20&theme=radical" alt="SudhansuuRanjan" /></p>
    </td>
  </tr>
 </table>
 </p>
 
 <h2 align="center"> My Github Streak</h2>
-<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="harshkumar62367" /></p>
+<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansuuranjan&theme=radical" alt="SudhansuuRanjan" /></p>
 
 <h2 align="center">My Contributions Graph</h2>
 <p align="middle">
