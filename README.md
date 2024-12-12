@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://sudhanshur.vercel.app/projects](https://sudhanshur.vercel.app/projects)
 
-- 💬 Ask me about **HTML/CSS , ReactJs , NodeJs, Solidity**
+- 💬 Ask me about **HTML/CSS , ReactJs, NextJs , NodeJs, Solidity**
 
-- 📫 How to reach me **sudhanshur.ug20.ee@nitp.ac.in**
+- 📫 How to reach me **sudhanshuranjan2k18@gmail.com**
 
 
 <br/>
