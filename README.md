@@ -21,12 +21,13 @@ I build clean web experiences, practical full-stack tools, and small experiments
 
 | Project | What it is | Stack / Focus |
 | --- | --- | --- |
-| [ResuLens](https://github.com/omisrivastava/resulens) | Resume analysis and workflow tooling | React, TypeScript, Vite, Tailwind CSS, Hono, Cloudflare Workers |
-| [tesla-nitp-web](https://github.com/SudhansuuRanjan/tesla-nitp-web) | Website for NIT Patna's technical society | React, Vite, Tailwind CSS, Appwrite, React Query |
-| [mix.me](https://github.com/SudhansuuRanjan/mix.me) | Full-stack music/social experiment | JavaScript, Node.js, client/server architecture |
-| [angelhack-project](https://github.com/SudhansuuRanjan/angelhack-project) | Hackathon project and rapid prototype | Product thinking, frontend, backend integration |
-| [E-Vendor](https://github.com/SudhansuuRanjan/E-Vendor) | Vendor/payment flow experiment | Node.js, Express, EJS, Stripe |
-| [MedBond](https://github.com/SudhansuuRanjan/MedBond) | Healthcare-themed web app | React, routing, UI development |
+| TestExpert | Desktop app for log/test analysis workflows | Electron, React, TypeScript, SQLite, Tailwind CSS |
+| [Noter](https://github.com/SudhansuuRanjan/noter) | Local-first Markdown note-taking app | Electron, React, TypeScript, CodeMirror, Markdown tooling |
+| [yt-repeat-ctrl](https://github.com/SudhansuuRanjan/yt-repeat-ctrl) | Chrome extension for native-feeling YouTube repeat controls | Browser extension APIs, JavaScript, YouTube player UI |
+| [NanoMarks](https://github.com/SudhansuuRanjan/nanomarks) | On-device AI bookmark manager using Gemini Nano | Chrome Extension, on-device AI, local storage |
+| [ClipSync](https://github.com/SudhansuuRanjan/clipsync) | Cross-device clipboard/file sharing experience | React, Vite, Supabase, Socket.IO, PWA |
+| [Cashly](https://github.com/SudhansuuRanjan/cashly) | Personal finance and cashflow product | Astro, Hono, Cloudflare Workers, D1, Drizzle |
+| Kaizen 2025-26 | Event platform and admin system | React, Vite, Tailwind CSS, Supabase, React Query |
 
 ## Skills
 
