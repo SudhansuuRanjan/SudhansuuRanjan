@@ -1,47 +1,74 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu.</h1>
+<div align="center">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sudhansuuranjan&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="sudhansuuranjan" /> </p>
+# Hey, I'm Sudhanshu Ranjan
 
-<p align="center">
-    <a href="https://github.com/SudhansuuRanjan"><img src="https://github.com/SudhansuuRanjan/SudhansuuRanjan/blob/main/forkit.gif" /></a> 
-</p>
+I build clean web experiences, practical full-stack tools, and small experiments that help ideas move from rough notes to shipped software.
 
+[![Profile views](https://komarev.com/ghpvc/?username=SudhansuuRanjan&label=Profile%20views&color=2563eb&style=flat)](https://github.com/SudhansuuRanjan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu%20Ranjan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshu-ranjan-a1779b202)
+[![Twitter](https://img.shields.io/badge/Twitter-sudhanss_u-111827?style=flat&logo=x&logoColor=white)](https://twitter.com/sudhanss_u)
+[![Instagram](https://img.shields.io/badge/Instagram-sudhanss_uu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sudhanss_uu)
 
-<br/>
-<p align="center"> <a href="https://twitter.com/@sudhanss_u" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanss_u?logo=twitter&style=for-the-badge" alt="@sushanss_u"/></a> </p>
-<br/>
+</div>
 
-<p align="middle"> <img src="https://github-profile-trophy.vercel.app/?username=SudhansuuRanjan&column=4&margin-w=15&margin-h=15&theme=radical" alt="Sudhanshu" /> </p>
+## What I'm Building
 
+- Working on **ResuLens**, a resume-focused web product built with React, TypeScript, Vite, Tailwind CSS, Hono, and Cloudflare Workers.
+- Interested in product-grade frontend engineering, fast APIs, developer tooling, and AI-assisted workflows.
+- I like turning scrappy prototypes into interfaces that feel useful, calm, and reliable.
 
-<br/>
-<h2 align="center">🌐 Connect with me:</h2>
-<p align="center">
-<a href="https://twitter.com/sushanss_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhanss_u" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudhanshu-ranjan-a1779b202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu-ranjan-a1779b202" height="30" width="40" /></a>
-<a href="https://instagram.com/sudhanss_uu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudhanss_uu" height="30" width="40" /></a>
-</p>
+## Selected Projects
 
-<br/>
+| Project | What it is | Stack / Focus |
+| --- | --- | --- |
+| [ResuLens](https://github.com/omisrivastava/resulens) | Resume analysis and workflow tooling | React, TypeScript, Vite, Tailwind CSS, Hono, Cloudflare Workers |
+| [tesla-nitp-web](https://github.com/SudhansuuRanjan/tesla-nitp-web) | Website for NIT Patna's technical society | React, Vite, Tailwind CSS, Appwrite, React Query |
+| [mix.me](https://github.com/SudhansuuRanjan/mix.me) | Full-stack music/social experiment | JavaScript, Node.js, client/server architecture |
+| [angelhack-project](https://github.com/SudhansuuRanjan/angelhack-project) | Hackathon project and rapid prototype | Product thinking, frontend, backend integration |
+| [E-Vendor](https://github.com/SudhansuuRanjan/E-Vendor) | Vendor/payment flow experiment | Node.js, Express, EJS, Stripe |
+| [MedBond](https://github.com/SudhansuuRanjan/MedBond) | Healthcare-themed web app | React, routing, UI development |
 
-<h2 align="center">My Github Stats</h2>
+## Skills
 
-<p align ="center">
-<table>
-  <tr>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhansuuranjan&show_icons=true&locale=en&layout=compact&line_height=20&theme=radical" alt="SudhansuuRanjan" /></p>
-   </td>
-   <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sudhansuuranjan&show_icons=true&line_height=20&theme=radical" alt="SudhansuuRanjan" /></p>
-   </td>
- </tr>
-</table>
-</p>
+**Frontend**
 
-<h2 align="center">My Contributions Graph</h2>
-<p align="middle">
-    
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=SudhansuuRanjan&theme=react-dark)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-</p>
+**Backend and platform**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat&logo=cloudflareworkers&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+
+**Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat&logo=cloudflare&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+
+## GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SudhansuuRanjan&show_icons=true&theme=tokyonight&hide_border=true" alt="Sudhanshu's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhansuuRanjan&layout=compact&theme=tokyonight&hide_border=true" alt="Sudhanshu's top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SudhansuuRanjan&theme=tokyo-night&hide_border=true" alt="Sudhanshu's contribution graph" />
+
+</div>
+
+## Connect
+
+- LinkedIn: [sudhanshu-ranjan-a1779b202](https://linkedin.com/in/sudhanshu-ranjan-a1779b202)
+- Twitter/X: [@sudhanss_u](https://twitter.com/sudhanss_u)
+- Instagram: [@sudhanss_uu](https://instagram.com/sudhanss_uu)
