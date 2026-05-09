@@ -57,12 +57,9 @@ I build clean web experiences, practical full-stack tools, and small experiments
 ![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 
-## GitHub Snapshot
+## Contribution Graph
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SudhansuuRanjan&show_icons=true&theme=tokyonight&hide_border=true" alt="Sudhanshu's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhansuuRanjan&layout=compact&theme=tokyonight&hide_border=true" alt="Sudhanshu's top languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudhansuuRanjan&theme=tokyo-night&hide_border=true" alt="Sudhanshu's contribution graph" />
 
