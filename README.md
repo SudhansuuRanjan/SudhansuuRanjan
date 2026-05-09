@@ -13,15 +13,15 @@ I build clean web experiences, practical full-stack tools, and small experiments
 
 ## What I'm Building
 
-- Working on **ResuLens**, a resume-focused web product built with React, TypeScript, Vite, Tailwind CSS, Hono, and Cloudflare Workers.
-- Interested in product-grade frontend engineering, fast APIs, developer tooling, and AI-assisted workflows.
-- I like turning scrappy prototypes into interfaces that feel useful, calm, and reliable.
+- Building **TestExpert**, a powerful desktop replacement for TITEN and a one-stop workflow for JIRA/Zephyr test management.
+- Designing native desktop workflows for test case management, execution tracking, reporting, AI-assisted productivity, and offline-first bulk operations.
+- Working on JIRA and Confluence sync, daily worklog tracking, and intelligent workflows that make QA teams faster and less dependent on slow web interfaces.
 
 ## Selected Projects
 
 | Project | What it is | Stack / Focus |
 | --- | --- | --- |
-| TestExpert | Desktop app for log/test analysis workflows | Electron, React, TypeScript, SQLite, Tailwind CSS |
+| TestExpert | Desktop test management app for JIRA/Zephyr workflows | Electron, React, TypeScript, SQLite, AI features |
 | [Noter](https://github.com/SudhansuuRanjan/noter) | Local-first Markdown note-taking app | Electron, React, TypeScript, CodeMirror, Markdown tooling |
 | [yt-repeat-ctrl](https://github.com/SudhansuuRanjan/yt-repeat-ctrl) | Chrome extension for native-feeling YouTube repeat controls | Browser extension APIs, JavaScript, YouTube player UI |
 | [NanoMarks](https://github.com/SudhansuuRanjan/nanomarks) | On-device AI bookmark manager using Gemini Nano | Chrome Extension, on-device AI, local storage |
